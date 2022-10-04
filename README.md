@@ -1,3 +1,3 @@
 # DeepLearning
 
-This code contains learning journey of TensorFlow 
+This code contains learning my learning journey of deep learning model
